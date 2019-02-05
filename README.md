@@ -1,2 +1,2 @@
 # JavaScript
-This repository contains very simple and effective programs
+This repository contains simple programs that may be asked in exams or interviews. 
